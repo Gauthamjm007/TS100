@@ -11,6 +11,7 @@
     "noUncheckedIndexedAccess": true,
     "exactOptionalPropertyTypes": true,
     "noEmit": true,
+    "noImplicitThis": false,
     "baseUrl": ".",
     "paths": {
       "js100": ["./src/index.ts"],
